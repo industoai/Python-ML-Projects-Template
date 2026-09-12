@@ -1,6 +1,6 @@
 # Python Library Template
 This is a general template for developing python projects.
-It mainly uses poetry and pre-commit libraries to make thos whole checking and developing code semi-automatically.
+It mainly uses poetry and pre-commit libraries to make the whole checking and developing code semi-automatically.
 
 ## How to Use
 To use the code do as following:
