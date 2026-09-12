@@ -18,3 +18,6 @@ Then create a branch with `git checkout -b BRANCH_NAME` for further developments
 
 ## Docker Container
 Under development.
+
+## License
+This repo is licensed under the Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
